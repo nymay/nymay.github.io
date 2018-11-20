@@ -1,0 +1,11 @@
+body {
+    background-image: url('/test-site/image-folder/Pastry.jpg');
+   
+}
+
+h3 {color: cornflowerblue;
+background-color:antiquewhite}
+h1, h2 {text-align: center;
+background-color:antiquewhite}
+
+ul {background-color:antiquewhite}
